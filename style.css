@@ -1,0 +1,26 @@
+#display {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.buttons button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 10px 20px;
+}
+
+.buttons button:hover {
+    background-color: #f0f0f0;
+}
+
+body {
+    background-image: url("gojo_satoru_jujutsu_kaisen_ss2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
